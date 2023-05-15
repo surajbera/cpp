@@ -1,0 +1,3 @@
+- The & symbol is called the "address-of operator"
+- The * symbol is called the "dereference operator"
+- Memory addresses should be stored in pointer types. The pointer type corresponds to the type of the value the memory address refers to
