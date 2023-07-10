@@ -6,7 +6,7 @@ int main()
   int x;
   cout << "Enter the value of x: ";
   cin >> x;
-  int* int_ptr = &x;
+  int *int_ptr = &x;
 
   cout << "Value of x before incrementing -> " << x << endl;
 
