@@ -6,10 +6,10 @@ int main()
   int a = 14;
   int b = 3;
   int q = a / b; /* quotient = dividend / divisor */
-  int r;         /* remainder */
+  int r;
 
   r = a - (q * b); /* remainder = dividend - (quotient * divisor) */
-  cout << r;
+  cout << q;
 
   return 0;
 }
